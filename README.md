@@ -1,4 +1,4 @@
-# python-fastapi-mongodb-starter-kit
+# python-fastapi-mongo-starter-kit
 
 Python FastAPI mongoDB starter kit
 
